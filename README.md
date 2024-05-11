@@ -2,6 +2,9 @@
 
 Este repositório hospeda um projeto em Python que utiliza o poder dos modelos de linguagem de grande escala (LLMs) para gerar relatórios abrangentes de aprendizagem do aluno. O projeto é especificamente projetado para se alinhar à "Base Nacional Comum Curricular" (BNCC), o currículo nacional brasileiro.
 
+# Exemplo de relatório gerado pela ferramenta
+  * [Relatório de José](SampleReport.md)
+
 **Principais Recursos:**
 
 * **Alinhamento à BNCC:** Os relatórios gerados por este projeto são especificamente adaptados para refletir os objetivos de aprendizagem e competências descritos na estrutura da BNCC.
